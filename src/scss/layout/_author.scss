@@ -1,0 +1,22 @@
+.containerAuthor {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.author {
+    width: 60%;
+    margin-right: 10px;
+
+    &__img {
+        width: 150px;
+    }
+}
+
+.lists {
+    width: 40%;
+
+    &__section {
+        margin-bottom: 30px;
+    }
+}

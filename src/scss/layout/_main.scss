@@ -1,0 +1,10 @@
+@use "../core/variables" as vars;
+
+.articles {
+    border-top: 2px solid vars.$main-color;
+    padding-top: 20px;
+}
+
+.article {
+    margin-bottom: 20px;
+}
